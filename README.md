@@ -1,27 +1,26 @@
-# BankSITE® Legacy Repository
+# BBPro Legacy Repository (Authored by Bojan Josifoski)
 
-This repository contains legacy assets and infrastructure related to early versions of the proprietary WordPress-based platform now known as **BBPro Core Framework**.
+This repository preserves legacy components authored by **Bojan Josifoski**, originally developed during his independent contract work for the company marketing websites under the **BankSITE®** brand.
 
-From 2022 to 2025, the BBPro system was designed, built, and maintained by **Bojan Josifoski**, who served as the sole developer and system architect. This repository was originally maintained during that development period.
+From 2022 to 2025, Bojan served as the **sole developer and system architect** of the proprietary platform known as **BankSITE® Builder Pro (BBPro)** — a WordPress-based framework used by over 100 financial institutions across the United States.
 
-## 📌 Status
+## 📌 Purpose of This Repository
 
-**This repository is no longer maintained.** It is retained for archival and legal reference purposes only.
+- 🔒 This is an **independent archival repository**.
+- 🛠️ It contains **legacy source code**, assets, or tools authored solely by Bojan Josifoski.
+- 🔗 It is **not affiliated with or maintained by BankSITE® Services** or any third party.
+- ✅ Copyright registered under U.S. Copyright Case #: **1-14944175091**
 
-- ✅ Authorship: Bojan Josifoski
-- 🔒 Copyright Case #: 1-14944175091 (U.S. Copyright Office)
-- 🛠️ Platform: WordPress-based BBPro Core Framework
-- 🔗 Active Repository: [BBPro Core Framework (Private)](https://github.com/codeverbojan)
+This code and structure form part of the BBPro Core Framework, which remains under **private development and legal protection**.
 
-## ⚠️ Important Notice
+## ⚠️ Disclaimer
 
-This repository includes historical work associated with the **BankSITE® Builder Pro** system, a closed-source platform deployed across financial institutions in the U.S.
+> **BankSITE®** is a registered trademark of The Forms Group, Inc. It is referenced here **strictly for historical and descriptive context**.  
+> No affiliation or endorsement is expressed or implied.
 
-> **BankSITE®** is a registered trademark of The Forms Group, Inc. It is referenced here strictly for descriptive and historical purposes. No affiliation or endorsement is implied.
+## 📞 Contact
 
-## 📞 Legal & Licensing Inquiries
-
-For licensing, copyright, or technical inquiries related to the BBPro Core Framework or its legacy components, please contact:
+For licensing, platform continuity, or legal inquiries:
 
 **Bojan Josifoski**  
 📧 bojan.josifoski@codever.io  
